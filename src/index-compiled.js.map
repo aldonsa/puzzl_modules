@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":"AAAA,OAAO,IAAP,MAAiB,QAAjB;AACA,OAAO,IAAP,MAAiB,SAAjB;;AAIA,IAAI,OAAO,IAAI,IAAJ,EAAX;AACA,KAAK,UAAL","file":"index-compiled.js","sourcesContent":["import Game from './Game';\nimport PIXI from 'pixi.js';\n\n\n\nlet game = new Game();\ngame.initialize();\n"]}
